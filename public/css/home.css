@@ -1,0 +1,14 @@
+.btn-cadastrar{
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container-main{
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+.table-contain{
+    padding: 0 1.25rem 1.25rem;
+}
